@@ -53,6 +53,12 @@ def sito_eratostenesa(n):
 print(sito_eratostenesa(36))
 ```
 
+## 📊 Złożoność obliczeniowa – Sito Eratostenesa ##
+
+| Rodzaj przypadku | Złożoność czasowa |
+|------------------|-------------------|
+| Zawsze           | O(n log log n)    |
+
 ## **⚒️ Modyfikacje i warianty** ##
 Zwracanie samego sita (czyli tablicy booli) – przydatne przy częstych zapytaniach o pierwszość liczby.
 
