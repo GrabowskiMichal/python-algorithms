@@ -57,7 +57,7 @@ print(sito_eratostenesa(36))
 
 | Rodzaj przypadku | Złożoność czasowa |
 |------------------|-------------------|
-| Zawsze           | O(n log log n)    |
+| Zawsze           | O(n log(log(n))    |
 
 ## **⚒️ Modyfikacje i warianty** ##
 Zwracanie samego sita (czyli tablicy booli) – przydatne przy częstych zapytaniach o pierwszość liczby.
