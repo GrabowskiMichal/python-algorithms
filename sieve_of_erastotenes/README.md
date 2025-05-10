@@ -1,4 +1,4 @@
-# *Sito Eratostenesa* #
+# *🗑️ Sito Eratostenesa* #
 ## **📜 Historia algorytmu** ##
 Sito Eratostenesa to jeden z najstarszych znanych algorytmów do znajdowania liczb pierwszych. Został opisany przez greckiego matematyka Eratostenesa z Cyreny około 200 r. p.n.e. Eratostenes był nie tylko matematykiem, ale też geografem i filozofem — znany jest m.in. z wyznaczenia obwodu Ziemi z dużą dokładnością.
 
