@@ -5,7 +5,7 @@ Sito Eratostenesa to jeden z najstarszych znanych algorytmów do znajdowania lic
 ## **🧠 Idea algorytmu** ##
 Algorytm pozwala znaleźć wszystkie liczby pierwsze mniejsze lub równe danemu n. Jego działanie polega na eliminowaniu (czyli „skreślaniu”) wielokrotności każdej liczby pierwszej, zaczynając od 2. Po przetworzeniu wszystkich liczb do pierwiastka z n, pozostają tylko liczby pierwsze.
 
-## **⚙️ Działanie krok po kroku**##
+## **⚙️ Działanie krok po kroku** ##
 Tworzymy listę liczb od 2 do n.
 
 Zaczynamy od pierwszej liczby z listy (czyli 2).
