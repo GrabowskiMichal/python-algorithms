@@ -29,6 +29,6 @@ def merge(left, right):
     return merged
 
 # Przykład użycia
-arr = [38, 27, 43, 3, 9, 82, 10]
+arr = [22, 11, 88, 66, 55, 77, 33, 44, 11]
 sorted_arr = merge_sort(arr)
-print("Posortowana tablica:", sorted_arr)
+print(sorted_arr)
